@@ -69,6 +69,7 @@ header a:hover {
 .illustrazione{
     margin:auto;
     border: white solid 3px;
+    border-radius: 20px;
 }
 
 .presentazione-home {
@@ -106,7 +107,6 @@ header a:hover {
 }
 
 .destra {
-    background-color: red;
     margin: 112px auto 0;
     text-align: left;
     max-width: 100%;
@@ -117,9 +117,7 @@ header a:hover {
     margin-left: 550px;
 }
 
-.destra p {
-    background-color: aqua;
-}
+
 
 .container-carosello{
    padding: 2rem;
